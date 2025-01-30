@@ -23,11 +23,15 @@
 ✅ 시계열 데이터를 활용한 투자 성과 시각화
 
 
-📂 주요 프로그램 목록
-프로그램	기능	용도
-crawling_marketdata.ipynb	시장 데이터를 사용한 자산배분 프로그램	자산배분
-crawling_fundguide.ipynb	fundguide 데이터 크롤링	종목선정
-crawling_wics_value.ipynb	valueline 국내주식 가치지표 크롤링	종목선정
-Magnificent_Seven.ipynb	Magnificent Seven 종목 그래프 시각화	종목선정
-crawling_virtual_currency.ipynb	가상화폐 시세데이터 시각화	마켓타이밍
-crawling_fred_indicators.ipynb	FRED 거시 경제 지표 데이터 크롤링	거시지표
+📂 주요 프로그램 목록  
+
+| 프로그램 | 기능 | 용도 |
+|----------|----------------------------|------------|
+| `crawling_marketdata.ipynb` | 시장 데이터를 사용한 자산배분 프로그램 | 자산배분 |
+| `crawling_fundguide.ipynb` | fundguide 데이터 크롤링 | 종목선정 |
+| `crawling_wics_value.ipynb` | valueline 국내주식 가치지표 크롤링 | 종목선정 |
+| `Magnificent_Seven.ipynb` | Magnificent Seven 종목 그래프 시각화 | 종목선정 |
+| `crawling_virtual_currency.ipynb` | 가상화폐 시세데이터 시각화 | 마켓타이밍 |
+| `crawling_fred_indicators.ipynb` | FRED 거시 경제 지표 데이터 크롤링 | 거시지표 |
+
+
